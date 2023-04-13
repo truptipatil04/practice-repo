@@ -1,0 +1,40 @@
+potato: 
+Early_blight
+organic= Equisetum arvense extract
+chemical= mancozeb and chlorothalonil
+
+Late_blight
+organic= Copper products can effectively control, or slow down, late blight epidemics
+chemical= One spray of mancozeb (contact fungicides: before appearance) and latter two more sprays of translaminar/systemic + contact fungicides at 7–10 days interval
+
+Peach:
+Bacterial_spot = 
+chemical= copper, oxytetracycline (Mycoshield and generic equivalents), and syllit+captan;
+organic= copper
+
+Strawberry=
+Leaf_scorch= 
+chemical= pyrethrum, captan and malathion
+organic= Natural fungicides such as neem oil can be used preemptively and after infection
+
+Apple
+apple_scab:
+chemical= dodine, captan or dinathion 
+organic= solutions containing sulfur and pyrethrins
+
+Black_rot:
+chemical= antibiotic streptomycin or a copper-based fungicide
+organic= Captan and sulfur products
+
+Cedar_apple_rust:
+chemical= myclobutanil (Immunox and F-Stop Lawn & Garden Fungicide)
+organic= Sulfur treatment 
+
+Pepper Bell:
+Bacterial spot: 
+chemical= Copper-containing bactericides
+organic= Neem oil
+
+Esca_(Black_Measles)
+chemical= 
+organic= 
